@@ -1,0 +1,21 @@
+body{
+  background-color:#939F5C;
+}
+h1{
+  font-family: Merriweather;
+  font-weight: 900;
+  margin-top: 70px;
+  font-size: 3.6rem;
+}
+
+/* dice */
+.dice{
+  text-align: center;
+  padding: 10px;
+}
+.dicein{
+  padding: 50px 80px 40px;
+  display: inline-block;
+  font-family: Merriweather;
+  font-weight: 300;
+}
