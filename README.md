@@ -7,6 +7,5 @@ Simple dice game built with html, css and javascript.After pressing the roll but
 <a href="https://twitter.com/anshu7anx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshu7anx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anshu-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu-sarkar/" height="30" width="40" /></a>
 </p>
-## [Clone this project](https://github.com/AnshuSarkarANX/Dice-game.git)
 
-## [Clone this project](https://github.com/AnshuSarkarANX/Drum-Kit.git)
+## [Clone this project](https://github.com/AnshuSarkarANX/Dice-game.git)
