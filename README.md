@@ -1,6 +1,6 @@
 # Dice-game
 ![DiceGame](dice-roll.png)
-#### Simple dice game built with `html`, `css` and `javascript`.After pressing `roll` button it wil roll the dices and declear the winner, you can press the `roll` again to play again.
+#### Simple dice game built with `html`, `css` and `javascript`.At first when you press the `roll` button then it wil roll the dices and declear the winner, you can press the `roll` again to play the game again.
 
 ## Languages used in this project:
 
