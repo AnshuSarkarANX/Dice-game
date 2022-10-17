@@ -12,4 +12,11 @@
 <a href="https://discord.com/users/670951225512165376/" target="blank"><img align="center" src="https://github.com/AnshuSarkarANX/AnshuSarkarANX/blob/main/372108630_DISCORD_LOGO_1080.gif" alt="gif" height="50" width="50" /></a>
 </p>
 
-## [Clone this project](https://github.com/AnshuSarkarANX/Dice-game.git)
+## Setup Guide
+
+##### Open git bash on your device -
+Type-
+```sh 
+git clone https://github.com/AnshuSarkarANX/Dice-game.git
+```
+Then go to the folder from your device's file manager and open the `index.html` file with your browser.
