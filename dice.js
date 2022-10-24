@@ -10,6 +10,7 @@ var darr=[d1,d2,d3,d4,d5,d6];
   var r2 = Math.floor(Math.random()*6);
   document.querySelector("#d1").innerHTML=darr[r1]+"<p>First Player</p>";
   document.querySelector("#d2").innerHTML=darr[r2]+"<p>Second Player</p>";
+  //Game LOgic
   if(r1>r2){
     document.querySelector("h1").innerHTML="First Player won the game.";
   }
